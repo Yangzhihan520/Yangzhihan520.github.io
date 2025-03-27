@@ -1,0 +1,182 @@
+.navbar{
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    background-color:#2c3e50;
+    padding:10px 0;
+    z-index:1000;
+    box-shadow:0 4px 8px rgba(0,0,0,0.1);
+}
+
+.navbar a{
+    color:white;
+    padding:14px 20px;
+    text-decoration:none;
+    text-align:center;
+    font-size:18px;
+    float:left;
+}
+
+.navbar a:hover{
+    background-color:#34495e;
+}
+
+#ww{
+    margin-top:60px;
+    background-image:url(20221011-tsgold2022-05-1024x682.jpg);
+    background-size:cover;
+    background-attachment:fixed;
+
+}
+.hhh{
+    color: white;
+    font-size:90px;
+    margin-bottom:0px;
+    text-shadow:0 0 5px rgba(0, 255, 255, 1), 0 0 10px rgba(0, 255, 255, 1), 0 0 15px rgba(0, 255, 255, 1);
+    font-family:fantasy;
+
+}
+.hh{
+    color:white;
+    font-size:108px;
+    margin-top:0px;
+    text-shadow:0 0 5px rgba(0, 255, 255, 1), 0 0 10px rgba(0, 255, 255, 1), 0 0 15px rgba(0, 255, 255, 1);
+    font-family:fantasy;
+}
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+#qq{
+    font-family:'Arial', sans-serif;
+    background-color:#f1f1f1;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    color:#333;
+}
+
+.form-container{
+    background-color:#fff;
+    padding:30px;
+    border-radius:8px;
+    box-shadow:0 4px 6px rgba(0, 0, 0, 0.1);
+    width:100%;
+    max-width:400px;
+    text-align:center;
+}
+
+h2{
+    color:#333;
+    margin-bottom:20px;
+}
+
+.input-group{
+    margin-bottom:20px;
+    text-align:left;
+}
+
+.input-group label{
+    display:block;
+    margin-bottom:5px;
+    font-size:14px;
+    color:#555;
+}
+
+.input-group input, .input-group textarea{
+    width:100%;
+    padding:12px;
+    border:2px solid #ccc;
+    border-radius:4px;
+    font-size:14px;
+    color:#333;
+    transition:border-color 0.3s ease;
+}
+
+.input-group input:focus, .input-group textarea:focus{
+    border-color:#4CAF50;
+    outline:none;
+}
+
+
+.submit-container{
+    text-align:center;
+}
+
+button{
+    padding:10px 20px;
+    background-color:#4CAF50;
+    color:white;
+    font-size:16px;
+    border:none;
+    border-radius:4px;
+    cursor:pointer;
+    transition:background-color 0.3s ease;
+}
+
+button:hover{
+    background-color:#45a049;
+}
+
+button:active{
+    background-color:#3e8e41;
+}
+
+.ee{
+    width:50%;
+    float:left;
+    text-align:center;
+    margin:10px;
+}
+.h22{
+    margin-top:-50px;
+    color:goldenrod;
+}
+.a{
+    text-decoration:none;
+}
+
+#oi{
+    background-image:url(ac104c7e21f54d68a500c215e79eb23d~tplv-xv4ileqgde-image.image.jpeg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+
+}
+
+.Le{
+    color:goldenrod;
+    font-size:16px;
+    font-family:cursive;
+}
+.Bo{
+    font-size:80px;
+    color:goldenrod;
+    font-family:cursive;
+}
+
+.Li{
+    font-size:24px;
+    color:goldenrod;
+    font-family:cursive;
+}
+*{
+    font-family:cursive;
+}
+
+#ooi{
+    background-image: url(https://bhauction.com/data/img/lots/1996-DATSUN-240Z-VINTAGE-Z/240613_02_05.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+}
+#oooi{
+    background-image: url(WechatIMG899.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
